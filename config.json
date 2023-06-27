@@ -8,7 +8,7 @@
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.com/api/webhooks/1117398085409198091/sJxFKovU8d4RPoMOScYBx9loPBSGQQ3uAVvVxCQS3x1Yqbob8oH8O_yUQzfAnvYzn6Z_"
     },
 
     "discord": {
@@ -16,8 +16,8 @@
     },
 
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "dd2ef915-03c1-473f-94ac-993b99193bca",
+        "client_secret": "qu-8Q~qjSEheKgf5nLZvH1vNp_2aeF9_0m4wIc6j",
+        "redirect_uri": "https://verificationmc.onrender.com"
     }
 }
